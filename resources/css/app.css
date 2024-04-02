@@ -188,5 +188,6 @@ a {
 
     .nav-item {
         width: 80px;
+        justify-content: center;
     }
 }
